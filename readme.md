@@ -12,7 +12,7 @@
 
 <h3 align='center'>nest.link</h3>
 <p align='center'>
-  The Base Link Network Framework
+  The BaseLink Network Framework
 </p>
 
 <br/>
